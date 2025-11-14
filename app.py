@@ -1,10 +1,3 @@
-import plotly.express as px
-import pandas as pd
-!pip install pandas deep-translator
-import plotly.express as px
-import pandas as pd
-!pip install dash
-!pip install jupyter dash
 !pip install dash
 # --- ライブラリのインポート ---
 from dash import Dash, dcc, html
