@@ -1,4 +1,3 @@
-!pip install dash
 # --- ライブラリのインポート ---
 from dash import Dash, dcc, html
 from dash.dependencies import Input, Output
